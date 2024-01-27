@@ -25,6 +25,8 @@ GameBoy is a DIY handheld game console project featuring an 8x8 LED matrix displ
 3. Compile and upload the game code to the Arduino Nano.
 4. Power on the GameBoy and start playing the included games.
 
+![alt text](https://github.com/Chiranjeev-Kartik/GameBoy/blob/eab6d6782dddbf40155b82e33a9597eca5f0a663/GameBoy%20fisnished.jpg)
+
 ## Contributing
 
 Contributions to the GameBoy project are welcome! If you have ideas for new games, improvements to the code, or additional features, feel free to submit a pull request. Please refer to github's contribution guidelines for more details.
