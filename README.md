@@ -15,7 +15,6 @@ GameBoy is a DIY handheld game console project featuring an 8x8 LED matrix displ
 
 - Source code for the games implemented in C/C++.
 - Circuit schematics and layout designs.
-- CAD resource for building and assembling the handheld console.
 - Instructions for uploading games and modifying the code.
 
 ## Getting Started
